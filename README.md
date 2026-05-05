@@ -9,4 +9,4 @@ Moravian
 
 * Lili - kubisekl@moravian.edu
 
-dark green
+dark green, pink
