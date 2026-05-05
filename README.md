@@ -7,6 +7,6 @@ changes.
 
 Moravian
 
-* Lili is also here
+* Lili - kubisekl@moravian.edu
 
 dark green
