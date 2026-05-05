@@ -3,7 +3,7 @@ changes.
 
 
 
-* Nora Sekol  
+* Nora Sekol -- sekoln@moravian.edu
 
 Moravian
 
